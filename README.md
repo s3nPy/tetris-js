@@ -37,6 +37,9 @@ project-root$  npm run build
 project-root$  npm run dev
 ```
 
+To run project open in browser:
+
+ **project-root/dist/index.html**
 
 
 ## Author
